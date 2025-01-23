@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>موقعي البسيط</title>
+    <title>saad the</title>
 </head>
 <body>
     <h1>مرحبًا بك في موقعي!</h1>
